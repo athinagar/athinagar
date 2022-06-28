@@ -17,7 +17,7 @@
 </h2>
   
   - 🌵 Data Scientist based out of sunny Arizona
-  - 📊 Working on market research and pricing projects
+  - 📊 Working on market research and pricing projects @ Delta Faucet 
   - 💻 Comfortable in Python, SQL, Tableau, R
   - 📚 Learning: Spark, TensorFlow
   - ✏️ Studying Applied Statistics @ Colorado State
