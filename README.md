@@ -1,9 +1,9 @@
 <h1 align="center">
-  Hi, I'm Ash! (@athinagar)
+  Hi, I'm Ash!
 </h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/f3CtEsJ72j86DIumaJ/giphy.gif" width="200"/>
 </div>
 
 <div id="badges", align=center>
